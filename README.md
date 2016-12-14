@@ -1,2 +1,5 @@
 # hello-world
-intro to GitHub test
+
+Hi I'm Jim
+
+This is my test of the GitHub program.
